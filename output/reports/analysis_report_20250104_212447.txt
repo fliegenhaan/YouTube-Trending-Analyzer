@@ -1,0 +1,157 @@
+YouTube Trending Analysis Report
+==================================================
+
+Generated on: 2025-01-04 21:24:47
+
+Network Statistics
+------------------------------
+Total nodes (videos): 50
+Total edges (relationships): 1275
+Graph density: 1.0408
+Average clustering coefficient: 1.0000
+
+Most Influential Videos (by Degree Centrality)
+------------------------------
+Title: AKHIRNYA MAK BETI LAHIRAN
+Channel: Arif muhammad
+Centrality: 1.0408
+Views: 2,520,667
+
+Title: MAMARI TEMENIN AISAR JALAN “ DIBALI #VLOG 09
+Channel: KeluargaBacil
+Centrality: 1.0408
+Views: 1,113,165
+
+Title: Game Dinosaurus 2
+Channel: Topi Sihir Animation
+Centrality: 1.0408
+Views: 960,575
+
+Title: EPISODE 85 | Ambo Nai Anak Jalanan | Timur Kota | Komedi Bugis
+Channel: Timur Kota Official
+Centrality: 1.0408
+Views: 2,103,711
+
+Title: Coki Pardede Sekarang Baik
+Channel: Raditya Dika
+Centrality: 1.0408
+Views: 753,673
+
+Title: PINDAHAN
+Channel: Fadil Jaidi
+Centrality: 1.0408
+Views: 3,384,620
+
+Title: KAMPUNG POJOK MULAI GAK AMAN !!!
+Channel: dika_ bj
+Centrality: 1.0408
+Views: 3,259,260
+
+Title: FULL HIGHLIGHT! VIETNAM (2) VS (1) THAILAND |  ASEAN MITSUBISHI ELECTRIC CUP 2024
+Channel: officialgtvid
+Centrality: 1.0408
+Views: 643,291
+
+Title: DENNY CAKNAN, JASUN BIBER, ERI PRAS - SEKTI | DC.CONGYENG (OFFICIAL LIVE MUSIC VIDEO) | DC MUSIK
+Channel: DC. PRODUCTION
+Centrality: 1.0408
+Views: 1,145,859
+
+Title: Kakek Kompor Gas Berubah Menjadi Siluman Kucing Ketiak -_-
+Channel: BUDI01 GAMING
+Centrality: 1.0408
+Views: 499,146
+
+Category Distribution
+------------------------------
+People & Blogs: 240 videos (32.0%)
+Gaming: 210 videos (28.0%)
+Entertainment: 75 videos (10.0%)
+Comedy: 60 videos (8.0%)
+Film & Animation: 60 videos (8.0%)
+Sports: 60 videos (8.0%)
+Music: 45 videos (6.0%)
+
+Most Active Channels
+------------------------------
+KeluargaBacil: 45 videos
+Sptrakori_Official: 45 videos
+Dhot Design: 45 videos
+BUDI01 GAMING: 30 videos
+Timur Kota Official: 15 videos
+Topi Sihir Animation: 15 videos
+Raditya Dika: 15 videos
+dika_ bj: 15 videos
+officialgtvid: 15 videos
+Fadil Jaidi: 15 videos
+
+Daily Trending Video Counts
+------------------------------
+2024-12-21: 50 videos
+2024-12-22: 50 videos
+2024-12-23: 50 videos
+2024-12-24: 50 videos
+2024-12-25: 50 videos
+2024-12-26: 50 videos
+2024-12-27: 50 videos
+2024-12-28: 50 videos
+2024-12-29: 50 videos
+2024-12-30: 50 videos
+2024-12-31: 50 videos
+2025-01-01: 50 videos
+2025-01-02: 50 videos
+2025-01-03: 50 videos
+2025-01-04: 50 videos
+
+Community Detection Results
+------------------------------
+Community 1: 1 videos
+Community 2: 1 videos
+Community 3: 1 videos
+Community 4: 1 videos
+Community 5: 1 videos
+Community 6: 1 videos
+Community 7: 1 videos
+Community 8: 1 videos
+Community 9: 1 videos
+Community 10: 1 videos
+Community 11: 1 videos
+Community 12: 1 videos
+Community 13: 1 videos
+Community 14: 1 videos
+Community 15: 1 videos
+Community 16: 1 videos
+Community 17: 1 videos
+Community 18: 1 videos
+Community 19: 1 videos
+Community 20: 1 videos
+Community 21: 1 videos
+Community 22: 1 videos
+Community 23: 1 videos
+Community 24: 1 videos
+Community 25: 1 videos
+Community 26: 1 videos
+Community 27: 1 videos
+Community 28: 1 videos
+Community 29: 1 videos
+Community 30: 1 videos
+Community 31: 1 videos
+Community 32: 1 videos
+Community 33: 1 videos
+Community 34: 1 videos
+Community 35: 1 videos
+Community 36: 1 videos
+Community 37: 1 videos
+Community 38: 1 videos
+Community 39: 1 videos
+Community 40: 1 videos
+Community 41: 1 videos
+Community 42: 1 videos
+Community 43: 1 videos
+Community 44: 1 videos
+Community 45: 1 videos
+Community 46: 1 videos
+Community 47: 1 videos
+Community 48: 1 videos
+Community 49: 1 videos
+Community 50: 1 videos
